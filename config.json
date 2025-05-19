@@ -1,0 +1,13 @@
+{
+    "DEEPSEEK_API_KEY": "sk-1bc0ea02705c4237a63340c3e821709b",
+    "OPENROUTER_API_KEY": "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",
+    "DEFAULT_CHARACTER_API": "deepseek",
+    "DEFAULT_PARTNER_API": "openrouter",
+    "MAX_TURNS": 10,
+    "LOG_DIR": "logs",
+    "OUTPUT_DIR": "benchmark_results",
+    "PARALLEL_EXECUTION": false,
+    "MAX_WORKERS": 4,
+    "CHARACTER_PROFILES_FILE": "api/data/extracted_character_profiles.json",
+    "CONFLICT_SCENARIOS_FILE": "api/data/extracted_conflict_scenarios.json"
+} 
